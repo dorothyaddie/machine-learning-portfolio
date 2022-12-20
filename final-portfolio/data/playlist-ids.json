@@ -1,0 +1,841 @@
+{
+    "href": "https://api.spotify.com/v1/users/dorothy.grace/playlists?offset=0&limit=20",
+    "items": [
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/0IGRiz8jLF9O927eQfoER0"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0IGRiz8jLF9O927eQfoER0",
+        "id": "0IGRiz8jLF9O927eQfoER0",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273160d5da118b329343babd8afab67616d0000b273297dd2e5a0e6f916364eddc8ab67616d0000b273a28eabe111f67a386e75a31aab67616d0000b273d4ddecc1595d7efc9efa566f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273160d5da118b329343babd8afab67616d0000b273297dd2e5a0e6f916364eddc8ab67616d0000b273a28eabe111f67a386e75a31aab67616d0000b273d4ddecc1595d7efc9efa566f",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273160d5da118b329343babd8afab67616d0000b273297dd2e5a0e6f916364eddc8ab67616d0000b273a28eabe111f67a386e75a31aab67616d0000b273d4ddecc1595d7efc9efa566f",
+            "width": 60
+          }
+        ],
+        "name": "100 songs I love ",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NyxjZDQ5MTc3MjIzNzcxZTBmZTBmZjc1ZWM3ZTQxNzFkMjUwYWNkNzhm",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/0IGRiz8jLF9O927eQfoER0/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0IGRiz8jLF9O927eQfoER0"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/5uSEm9TIcyRCYLv6OhaCV1"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5uSEm9TIcyRCYLv6OhaCV1",
+        "id": "5uSEm9TIcyRCYLv6OhaCV1",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27341aebca74146263334276289ab67616d0000b273526d2d826b0ba08811ebeabcab67616d0000b27363c9efb01cf8de0cedef4b84ab67616d0000b2739efeefddd09eb697a527ba47",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27341aebca74146263334276289ab67616d0000b273526d2d826b0ba08811ebeabcab67616d0000b27363c9efb01cf8de0cedef4b84ab67616d0000b2739efeefddd09eb697a527ba47",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27341aebca74146263334276289ab67616d0000b273526d2d826b0ba08811ebeabcab67616d0000b27363c9efb01cf8de0cedef4b84ab67616d0000b2739efeefddd09eb697a527ba47",
+            "width": 60
+          }
+        ],
+        "name": "95 songs I hate",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTYxLDA4MmFlMzM3MTM3ZTBhYzE4NDk5YzA2MTViZTc5ZWY1YTk4ZWRlNDU=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/5uSEm9TIcyRCYLv6OhaCV1/tracks",
+          "total": 95
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5uSEm9TIcyRCYLv6OhaCV1"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/4E60tKCwAv8T6A2kuQ6hsj"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4E60tKCwAv8T6A2kuQ6hsj",
+        "id": "4E60tKCwAv8T6A2kuQ6hsj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273423fc787b53e081679cfc4c0ab67616d0000b27361c035a6272f99308dadbe87ab67616d0000b2736ace20b0dd68a59294cbdb5cab67616d0000b2736ce90ec627a0198a8efd127f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273423fc787b53e081679cfc4c0ab67616d0000b27361c035a6272f99308dadbe87ab67616d0000b2736ace20b0dd68a59294cbdb5cab67616d0000b2736ce90ec627a0198a8efd127f",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273423fc787b53e081679cfc4c0ab67616d0000b27361c035a6272f99308dadbe87ab67616d0000b2736ace20b0dd68a59294cbdb5cab67616d0000b2736ce90ec627a0198a8efd127f",
+            "width": 60
+          }
+        ],
+        "name": "2nd ringer",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjEsOWY2OWI3NjM0YTlmNjhiN2Q0Njk2YTY3NzExNTU0MGQ5NGE0ZDFmYQ==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/4E60tKCwAv8T6A2kuQ6hsj/tracks",
+          "total": 19
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4E60tKCwAv8T6A2kuQ6hsj"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/5MpawnGpEjhVLGQpLllSjV"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5MpawnGpEjhVLGQpLllSjV",
+        "id": "5MpawnGpEjhVLGQpLllSjV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273160d5da118b329343babd8afab67616d0000b273a28eabe111f67a386e75a31aab67616d0000b273aee1f0db6d6e20303b8b12adab67616d0000b273d4ddecc1595d7efc9efa566f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273160d5da118b329343babd8afab67616d0000b273a28eabe111f67a386e75a31aab67616d0000b273aee1f0db6d6e20303b8b12adab67616d0000b273d4ddecc1595d7efc9efa566f",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273160d5da118b329343babd8afab67616d0000b273a28eabe111f67a386e75a31aab67616d0000b273aee1f0db6d6e20303b8b12adab67616d0000b273d4ddecc1595d7efc9efa566f",
+            "width": 60
+          }
+        ],
+        "name": "rush hour",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjUsMGQ0Y2U3ZjdkNmVkN2I4MjRkMmEwMTc5MDMxZjVjMzAyZDgwMmQ0Ng==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/5MpawnGpEjhVLGQpLllSjV/tracks",
+          "total": 17
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5MpawnGpEjhVLGQpLllSjV"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/0lDRriiADcZA2YQoVPqJKy"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0lDRriiADcZA2YQoVPqJKy",
+        "id": "0lDRriiADcZA2YQoVPqJKy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2736547dedbdf9e311f528bfa76ab67616d0000b27386ea698b2e953980fa6fac14ab67616d0000b273a3f0e9f20bfbdd1ab8752e39ab67616d0000b273fad1123add46f2fb2a72f10c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2736547dedbdf9e311f528bfa76ab67616d0000b27386ea698b2e953980fa6fac14ab67616d0000b273a3f0e9f20bfbdd1ab8752e39ab67616d0000b273fad1123add46f2fb2a72f10c",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2736547dedbdf9e311f528bfa76ab67616d0000b27386ea698b2e953980fa6fac14ab67616d0000b273a3f0e9f20bfbdd1ab8752e39ab67616d0000b273fad1123add46f2fb2a72f10c",
+            "width": 60
+          }
+        ],
+        "name": "LaTeX Allergy",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NixiY2RhMTM2YThkNzg0NWQ0ZTY1YmEzMDU2ZGJhMjBkMWNiZjFiMzI5",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/0lDRriiADcZA2YQoVPqJKy/tracks",
+          "total": 5
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0lDRriiADcZA2YQoVPqJKy"
+      },
+      {
+        "collaborative": false,
+        "description": "in love",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/1W4vITZkOh1aBAHdwCI4eM"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1W4vITZkOh1aBAHdwCI4eM",
+        "id": "1W4vITZkOh1aBAHdwCI4eM",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706c0000bebb2174e691ee8c83f6290c4157",
+            "width": null
+          }
+        ],
+        "name": "autumn im in awe",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjQsNjRkOGU5N2U3YTJmNjM2OWEwY2ZhY2QwYjQ3ZWRkNDgzNTMwMDI0Yw==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/1W4vITZkOh1aBAHdwCI4eM/tracks",
+          "total": 17
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1W4vITZkOh1aBAHdwCI4eM"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/4MeF1CCsjaMlwcMm3sC3sm"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4MeF1CCsjaMlwcMm3sC3sm",
+        "id": "4MeF1CCsjaMlwcMm3sC3sm",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2735d4246bc9ee45258e5ef1747ab67616d0000b2737b34b9537100852e875aade3ab67616d0000b2739f64f8699dfc9bf8a890efc2ab67616d0000b273b270eecaa3e419a5db761271",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2735d4246bc9ee45258e5ef1747ab67616d0000b2737b34b9537100852e875aade3ab67616d0000b2739f64f8699dfc9bf8a890efc2ab67616d0000b273b270eecaa3e419a5db761271",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2735d4246bc9ee45258e5ef1747ab67616d0000b2737b34b9537100852e875aade3ab67616d0000b2739f64f8699dfc9bf8a890efc2ab67616d0000b273b270eecaa3e419a5db761271",
+            "width": 60
+          }
+        ],
+        "name": "acadia, ME",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTAsNzc3MTE5ZWExZmYwNzhmOGI0Y2NlZTMwYjNlZDFjMmFiNDk4OWY3Yg==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/4MeF1CCsjaMlwcMm3sC3sm/tracks",
+          "total": 8
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4MeF1CCsjaMlwcMm3sC3sm"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/4O0yZIlq4sTAIkcYbeARsz"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4O0yZIlq4sTAIkcYbeARsz",
+        "id": "4O0yZIlq4sTAIkcYbeARsz",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706c0000bebb29feb2747023de378ef3689c",
+            "width": null
+          }
+        ],
+        "name": " in my mind, out on your porch",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjcsZDI3YjFkNjQyNjViNTNmNmFmOGVmZDc2NGJjYzA0YjIwYmEzMjE1YQ==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/4O0yZIlq4sTAIkcYbeARsz/tracks",
+          "total": 22
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4O0yZIlq4sTAIkcYbeARsz"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/4MZxOAMRJBsGQd1SV4iwZe"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4MZxOAMRJBsGQd1SV4iwZe",
+        "id": "4MZxOAMRJBsGQd1SV4iwZe",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706c0000bebbee1c423feb1f242bcd0d13de",
+            "width": null
+          }
+        ],
+        "name": "femme4blowjob",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTAsOGYxZGIyYWJkMzBlOGZjZDhiOTZkMjk2ODNkM2MwNjY1ZWE0Y2M5NA==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/4MZxOAMRJBsGQd1SV4iwZe/tracks",
+          "total": 5
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4MZxOAMRJBsGQd1SV4iwZe"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/24KChyJdmsoGqs83VW7rQS"
+        },
+        "href": "https://api.spotify.com/v1/playlists/24KChyJdmsoGqs83VW7rQS",
+        "id": "24KChyJdmsoGqs83VW7rQS",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27305099de1570e27e2975de5c9ab67616d0000b2730fdfb62956211c999c39a5a3ab67616d0000b2739e6e788c086495c0c0effce9ab67616d0000b273d658a02ba8931985bdc4e0da",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27305099de1570e27e2975de5c9ab67616d0000b2730fdfb62956211c999c39a5a3ab67616d0000b2739e6e788c086495c0c0effce9ab67616d0000b273d658a02ba8931985bdc4e0da",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27305099de1570e27e2975de5c9ab67616d0000b2730fdfb62956211c999c39a5a3ab67616d0000b2739e6e788c086495c0c0effce9ab67616d0000b273d658a02ba8931985bdc4e0da",
+            "width": 60
+          }
+        ],
+        "name": "maggie rogers mix <3",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTgsNTRmNDk2ZGM4YThlMTUzMjA0YTEyMjI0Y2Y2NDA3NDYyYTFlZTk0Mw==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/24KChyJdmsoGqs83VW7rQS/tracks",
+          "total": 16
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:24KChyJdmsoGqs83VW7rQS"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/18mlIbfMsUQUyDDmsCi7ZH"
+        },
+        "href": "https://api.spotify.com/v1/playlists/18mlIbfMsUQUyDDmsCi7ZH",
+        "id": "18mlIbfMsUQUyDDmsCi7ZH",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706c0000bebbcd4761c60d5e4b02094b7232",
+            "width": null
+          }
+        ],
+        "name": "celebrity crush",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NTYsZTk0YWYzYzU0Y2UyOGEzMWQ3N2E1OTI5ODRiYzNhODM3OTRmMjljYg==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/18mlIbfMsUQUyDDmsCi7ZH/tracks",
+          "total": 22
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:18mlIbfMsUQUyDDmsCi7ZH"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/2bEJohdRqJDdCfCRWzjh70"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2bEJohdRqJDdCfCRWzjh70",
+        "id": "2bEJohdRqJDdCfCRWzjh70",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706c0000bebbcf6be6b70dd5cfe2613bc290",
+            "width": null
+          }
+        ],
+        "name": "valley boy",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTksNDRjNDVlZDUxMGFmMDU3MDk2NDRhYjliZDE3ODI3YmRlZjRiNWZmZg==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/2bEJohdRqJDdCfCRWzjh70/tracks",
+          "total": 15
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2bEJohdRqJDdCfCRWzjh70"
+      },
+      {
+        "collaborative": false,
+        "description": "she added this song to a playlist about me",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/034dK35edvXSXeP51KjLbg"
+        },
+        "href": "https://api.spotify.com/v1/playlists/034dK35edvXSXeP51KjLbg",
+        "id": "034dK35edvXSXeP51KjLbg",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706c0000bebbb80e23f5570a8b8471f042ea",
+            "width": null
+          }
+        ],
+        "name": "bitter sipping",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjAsNmNiOTJiZDQ1NGNmNDkyODZhYzNlYjA4ZTJhMWY3YmJlNTQxYmVjNg==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/034dK35edvXSXeP51KjLbg/tracks",
+          "total": 13
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:034dK35edvXSXeP51KjLbg"
+      },
+      {
+        "collaborative": false,
+        "description": "best eaten within 24-48 hours after opening",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/3UxEYwv3jfv4GLmZaM1GCo"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3UxEYwv3jfv4GLmZaM1GCo",
+        "id": "3UxEYwv3jfv4GLmZaM1GCo",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706c0000bebbdfa8787097dca8081bd735c9",
+            "width": null
+          }
+        ],
+        "name": "store in a cool dry place",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MzAsZDZmMmJjYTM4Y2ZiMzY4MDdiOTA2YWFjOTA5OTFmN2M1NzgwM2YyNw==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/3UxEYwv3jfv4GLmZaM1GCo/tracks",
+          "total": 18
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3UxEYwv3jfv4GLmZaM1GCo"
+      },
+      {
+        "collaborative": false,
+        "description": "its the same river",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/3ngixJ1wmq563w4uQ6oWWw"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3ngixJ1wmq563w4uQ6oWWw",
+        "id": "3ngixJ1wmq563w4uQ6oWWw",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706c0000bebbcba16238c533450b35f37807",
+            "width": null
+          }
+        ],
+        "name": "to and from",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTYsZGZjMzU3Y2Y3N2ExYWRlMjY2Nzg4NGJlMTU1ZjVlMTM3ZjNmMGI5OQ==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/3ngixJ1wmq563w4uQ6oWWw/tracks",
+          "total": 13
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3ngixJ1wmq563w4uQ6oWWw"
+      },
+      {
+        "collaborative": false,
+        "description": "my favorite love songs ",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/50bXu5IPkyIvVSBdWdbBwk"
+        },
+        "href": "https://api.spotify.com/v1/playlists/50bXu5IPkyIvVSBdWdbBwk",
+        "id": "50bXu5IPkyIvVSBdWdbBwk",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706c0000bebb07a7915fad34eb94c64b747c",
+            "width": null
+          }
+        ],
+        "name": "morning/lover",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjQsOTVkMjQwMGY2MTZjZGM4ODEwYThkNWFlNmU0YzZmMjgxZDI1MjAzYg==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/50bXu5IPkyIvVSBdWdbBwk/tracks",
+          "total": 19
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:50bXu5IPkyIvVSBdWdbBwk"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/3kSHpj0Qzf5abUktPDmMq5"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3kSHpj0Qzf5abUktPDmMq5",
+        "id": "3kSHpj0Qzf5abUktPDmMq5",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2737077bbc7fa9ee0d93e2a3240ab67616d0000b273b1c091e32aad5310ebbdd558ab67616d0000b273c6c07ece5975edc3ec7aeb9bab67616d0000b273c9f6a742f2337f938e89f599",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2737077bbc7fa9ee0d93e2a3240ab67616d0000b273b1c091e32aad5310ebbdd558ab67616d0000b273c6c07ece5975edc3ec7aeb9bab67616d0000b273c9f6a742f2337f938e89f599",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2737077bbc7fa9ee0d93e2a3240ab67616d0000b273b1c091e32aad5310ebbdd558ab67616d0000b273c6c07ece5975edc3ec7aeb9bab67616d0000b273c9f6a742f2337f938e89f599",
+            "width": 60
+          }
+        ],
+        "name": "order matters",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NzcsMmNiYjI2MDMxZjRhYzI1YTRmOTQyOWVhYTA0NThkZjRhMDdjZGJlNA==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/3kSHpj0Qzf5abUktPDmMq5/tracks",
+          "total": 24
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3kSHpj0Qzf5abUktPDmMq5"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/5dBxX3pGwZhEnWG5CRQxcR"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5dBxX3pGwZhEnWG5CRQxcR",
+        "id": "5dBxX3pGwZhEnWG5CRQxcR",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27395f754318336a07e85ec59bcab67616d0000b273a48964b5d9a3d6968ae3e0deab67616d0000b273a7613d346501b828b56a0bc3ab67616d0000b273e787cffec20aa2a396a61647",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27395f754318336a07e85ec59bcab67616d0000b273a48964b5d9a3d6968ae3e0deab67616d0000b273a7613d346501b828b56a0bc3ab67616d0000b273e787cffec20aa2a396a61647",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27395f754318336a07e85ec59bcab67616d0000b273a48964b5d9a3d6968ae3e0deab67616d0000b273a7613d346501b828b56a0bc3ab67616d0000b273e787cffec20aa2a396a61647",
+            "width": 60
+          }
+        ],
+        "name": "swiftie jams",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTQsYWI4N2IzNTE5NmNmZTIwZDkxOTk4Mjk5OTVlODczNWMwZjkyZWFkMg==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/5dBxX3pGwZhEnWG5CRQxcR/tracks",
+          "total": 13
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5dBxX3pGwZhEnWG5CRQxcR"
+      },
+      {
+        "collaborative": false,
+        "description": "Country",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/3xmjamY9nv2t46ca2HhHag"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3xmjamY9nv2t46ca2HhHag",
+        "id": "3xmjamY9nv2t46ca2HhHag",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2731f7bfdff4d21c8b3d249dc28ab67616d0000b27321eee1670c64182dacf0dbc0ab67616d0000b2737f677ac46e4e046e9515cb41ab67616d0000b273d91f5963317e781cb96d799f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2731f7bfdff4d21c8b3d249dc28ab67616d0000b27321eee1670c64182dacf0dbc0ab67616d0000b2737f677ac46e4e046e9515cb41ab67616d0000b273d91f5963317e781cb96d799f",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2731f7bfdff4d21c8b3d249dc28ab67616d0000b27321eee1670c64182dacf0dbc0ab67616d0000b2737f677ac46e4e046e9515cb41ab67616d0000b273d91f5963317e781cb96d799f",
+            "width": 60
+          }
+        ],
+        "name": "red river swimmin’",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjQsM2Y1NTJmY2ZiOWNlN2ZkOGM4MThlMjk2ZWU3OGJiZTFkODMwNWRjMg==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/3xmjamY9nv2t46ca2HhHag/tracks",
+          "total": 11
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3xmjamY9nv2t46ca2HhHag"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/7nOaaWAOu8NZs6qC6bEVq4"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7nOaaWAOu8NZs6qC6bEVq4",
+        "id": "7nOaaWAOu8NZs6qC6bEVq4",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27336615a0a60523dd62135ab3aab67616d0000b27371a30e96bfd46944faa85dacab67616d0000b273be1d65ddacb8666cabc5d3eeab67616d0000b273e76af696460a8b3aa26bf623",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27336615a0a60523dd62135ab3aab67616d0000b27371a30e96bfd46944faa85dacab67616d0000b273be1d65ddacb8666cabc5d3eeab67616d0000b273e76af696460a8b3aa26bf623",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27336615a0a60523dd62135ab3aab67616d0000b27371a30e96bfd46944faa85dacab67616d0000b273be1d65ddacb8666cabc5d3eeab67616d0000b273e76af696460a8b3aa26bf623",
+            "width": 60
+          }
+        ],
+        "name": "june 2021",
+        "owner": {
+          "display_name": "addie.py",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/dorothy.grace"
+          },
+          "href": "https://api.spotify.com/v1/users/dorothy.grace",
+          "id": "dorothy.grace",
+          "type": "user",
+          "uri": "spotify:user:dorothy.grace"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NSxjZDkxMzkyYjNhNjdiOTc2YTEyMDViNDhkMWIwNzExNzEzYjE5ZmZh",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/7nOaaWAOu8NZs6qC6bEVq4/tracks",
+          "total": 4
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7nOaaWAOu8NZs6qC6bEVq4"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/users/dorothy.grace/playlists?offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 63
+  }
+  
