@@ -24,4 +24,10 @@ The first coding element of my portfolio is on a machine learning algorithm call
 The second coding element of my portfolio compares the effectiveness of decison trees, support vector machines, and random forests. These are supervised classification algorithms, meaning the model knows the correct answers. I explain what each model is. I build the model and then evaluate its performance on the dataset. I also included some visualizations of the models that show how they classify the data. 
 
 # Neural Networks
-The last component of my portfolio uses neural networks. This is a type of supervised machine learning. I implemented two neural networks on the spotify data using tensorflow. I then compared the networks accuracy using data visualizations and decided which one woul dbe the better model to use. 
+The last component of my portfolio uses neural networks. This is a type of supervised machine learning. I implemented two neural networks on the spotify data using tensorflow. I then compared the networks accuracy using data visualizations and decided which one woul dbe the better model to use.
+
+remaining work:
+-add neural networks link 
+-put names of all folders 
+-explain what each file is in the readme
+-set up github actions
