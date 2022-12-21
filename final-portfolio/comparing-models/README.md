@@ -1,0 +1,2 @@
+# What to expect
+In this component, I walk through the implementation and comparison of a decision tree, a support vector machine, and a random forest. The only file that you should look at is comparing_models.ipynb.

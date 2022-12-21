@@ -1,0 +1,2 @@
+# What to expect
+In this component, I walk through my implementation of k-means and the sk-learn implementation of k-means. I compare them based on accuracy. The only file you should look at is k-means.ipynb.
